@@ -2,17 +2,6 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8"/>
-  <meta name="description" content="制造业商会 - 数字化运营赋能平台 - 清远凡神人工智能旗下专业平台">
-  <meta name="keywords" content="清远凡神,人工智能,制造业商会 - 数字化运营赋能平台">
-  <meta name="author" content="清远凡神人工智能">
-  <link rel="canonical" href="https://zhizao.qyfanshen.com/">
-  <meta property="og:title" content="制造业商会 - 数字化运营赋能平台">
-  <meta property="og:description" content="制造业商会 - 数字化运营赋能平台 - 清远凡神人工智能旗下专业平台">
-  <meta property="og:url" content="https://zhizao.qyfanshen.com/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="清远凡神人工智能">
-  <meta name="twitter:card" content="summary">
-
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover, user-scalable=no"/>
 <title>制造业商会 - 数字化运营赋能平台</title>
 <style>
@@ -54,15 +43,6 @@ body{margin:0;padding:0;font-family:'Inter','PingFang SC','Microsoft YaHei',Helv
 .loading-text{position:absolute;bottom:40%;left:50%;transform:translateX(-50%);color:rgba(255,255,255,.4);font-size:13px;letter-spacing:1px}
 @keyframes spin{to{transform:rotate(360deg)}}
 </style>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "清远凡神人工智能",
-    "url": "https://zhizao.qyfanshen.com/",
-    "description": "制造业商会 - 数字化运营赋能平台 - 清远凡神人工智能旗下专业平台"
-  }
-  </script>
 </head>
 <body>
 
