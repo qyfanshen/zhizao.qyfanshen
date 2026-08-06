@@ -2,6 +2,8 @@
 
 > 制造业商会 · 数字化运营赋能平台
 
+> 🚀 **[在线演示](https://zhizao.qyfanshen.com)** · 📚 **[文档](docs/)** · 📋 **[快速开始](docs/QUICKSTART.md)** · 🐛 **[反馈问题](https://github.com/qyfanshen/zhizao.qyfanshen/issues)** · ⭐ **[Star](https://github.com/qyfanshen/zhizao.qyfanshen)**
+
 ![预览](screenshots/preview.png)
 <p align="center">
   <a href="https://github.com/qyfanshen/zhizao.qyfanshen"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="许可证"></a>
