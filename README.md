@@ -13,6 +13,8 @@
 
 ---
 
+**Smart Manufacturing** is a digital operations platform for manufacturing chambers — shop-floor overview, work orders and role-separated admin/employee consoles.
+
 [English](README.md) | [中文](README.zh.md)
 
 ## Key Scenarios
@@ -39,15 +41,19 @@
 
 ## Screenshots
 
-Real screenshots captured via local server + headless Edge:
+Real screenshots captured after signing in:
 
-### Home page preview
+### Home page
 
-![Home page preview](screenshots/preview.png)
+![Home page](screenshots/preview.png)
 
-### Overview flow (extended viewport)
+### Employee console (after sign-in)
 
-![Overview flow (extended viewport)](screenshots/flow-overview.png)
+![Employee console](screenshots/work-console.png)
+
+### Admin console (after sign-in)
+
+![Admin console](screenshots/admin-console.png)
 
 ---
 
