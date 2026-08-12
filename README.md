@@ -10,7 +10,7 @@
   <a href="https://github.com/qyfanshen/zhizao.qyfanshen/actions"><img src="https://img.shields.io/github/actions/workflow/status/qyfanshen/zhizao.qyfanshen/ci.yml?branch=master&label=CI" alt="CI"></a>
   <a href="https://img.shields.io/github/languages/code-size/qyfanshen/zhizao.qyfanshen"><img src="https://img.shields.io/github/languages/code-size/qyfanshen/zhizao.qyfanshen" alt="Code size"></a>
   <a href="https://github.com/qyfanshen/zhizao.qyfanshen/issues"><img src="https://img.shields.io/github/issues/qyfanshen/zhizao.qyfanshen" alt="Issues"></a>
-  <a href="https://github.com/qyfanshen/zhizao.qyfanshen/stargazers"><img src="https://img.shields.io/github/stars/qyfanshen/zhizao.qyfanshen?style=social" alt="Stars"></a>
+  <a href="https://github.com/qyfanshen/zhizao.qyfanshen"><img src="https://img.shields.io/github/stars/qyfanshen/zhizao.qyfanshen?style=social" alt="Stars"></a>
 </p>
 
 ---
